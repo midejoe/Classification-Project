@@ -15,5 +15,4 @@ The increasing number of applicants every year calls for a Machine Learning base
  XGBoost Classifier
  
  ## Best Algorithm used based on metrics:
- RandomForest Classifier.
-
+ RandomForest Classifier with an accuracy of 74% and F1 score of 82%.
